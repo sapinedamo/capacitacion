@@ -1,0 +1,4 @@
+C:\Users\sapin\Documents\mainsoft\Marzo\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sapin\Documents\mainsoft\Marzo\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.AssemblyInfoInputs.cache
+C:\Users\sapin\Documents\mainsoft\Marzo\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.AssemblyInfo.cs
+C:\Users\sapin\Documents\mainsoft\Marzo\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.csproj.CoreCompileInputs.cache
