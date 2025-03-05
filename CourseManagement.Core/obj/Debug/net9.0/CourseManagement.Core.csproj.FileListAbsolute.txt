@@ -2,3 +2,8 @@ C:\Users\sapin\Documents\mainsoft\Marzo\CourseManagement.Core\obj\Debug\net9.0\C
 C:\Users\sapin\Documents\mainsoft\Marzo\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.AssemblyInfoInputs.cache
 C:\Users\sapin\Documents\mainsoft\Marzo\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.AssemblyInfo.cs
 C:\Users\sapin\Documents\mainsoft\Marzo\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\sapin\Documents\mainsoft\new\capacitacion\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sapin\Documents\mainsoft\new\capacitacion\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.AssemblyInfoInputs.cache
+C:\Users\sapin\Documents\mainsoft\new\capacitacion\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.AssemblyInfo.cs
+C:\Users\sapin\Documents\mainsoft\new\capacitacion\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\sapin\Documents\mainsoft\new\capacitacion\CourseManagement.Core\obj\Debug\net9.0\CourseManagement.Core.sourcelink.json
